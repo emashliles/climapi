@@ -14,9 +14,9 @@ namespace Climapi
         {
             TipList = new List<Tip>();
 
-            TipList.Add(new Tip("Y","Y"));
-            TipList.Add(new Tip("X","X"));
-            TipList.Add(new Tip("foo","bar"));
+            TipList.Add(new Tip("Y","Y","tag"));
+            TipList.Add(new Tip("X","X", "tag"));
+            TipList.Add(new Tip("foo","bar", "tag"));
         }
         public List<Tip> TipList;
 
@@ -31,6 +31,13 @@ namespace Climapi
         public void AddTips(List<Tip> tipList)
         {
             TipList = tipList;
+        }
+
+        public List<Tip> GetTipsByTag(string tag)
+        {
+            //write some code here to get all of the tips in the tip list that have a tag that is equal to "tag" and return that list
+
+            throw new NotImplementedException();
         }
     }
 }
