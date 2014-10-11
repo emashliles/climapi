@@ -5,3 +5,10 @@ c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\bin\Debu
 c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\obj\Debug\Climapi.csprojResolveAssemblyReference.cache
 c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\obj\Debug\Climapi.dll
 c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\obj\Debug\Climapi.pdb
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi\bin\Debug\Climapi.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi\bin\Debug\Climapi.pdb
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi\bin\Debug\Nancy.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi\bin\Debug\Nancy.xml
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi\obj\Debug\Climapi.csprojResolveAssemblyReference.cache
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi\obj\Debug\Climapi.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi\obj\Debug\Climapi.pdb

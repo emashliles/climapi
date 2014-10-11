@@ -14,7 +14,7 @@ namespace Climapi
         {
             var RandomTip = new Random();
 
-            return TipList.ElementAt(RandomTip.Next(0, TipList.Count-1));
+            return TipList.ElementAt(RandomTip.Next(0, TipList.Count));
         }
 
 

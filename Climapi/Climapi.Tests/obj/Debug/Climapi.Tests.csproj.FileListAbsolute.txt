@@ -7,3 +7,14 @@ c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\bi
 c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\bin\Debug\nunit.framework.xml
 c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\obj\Debug\Climapi.Tests.dll
 c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\obj\Debug\Climapi.Tests.pdb
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\bin\Debug\Climapi.Tests.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\bin\Debug\Climapi.Tests.pdb
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\bin\Debug\Climapi.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\bin\Debug\Nancy.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\bin\Debug\Climapi.pdb
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\bin\Debug\Nancy.xml
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\obj\Debug\Climapi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\obj\Debug\Climapi.Tests.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climapi.Tests\obj\Debug\Climapi.Tests.pdb

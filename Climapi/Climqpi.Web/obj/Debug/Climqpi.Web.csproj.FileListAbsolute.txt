@@ -4,3 +4,18 @@ c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\bin\
 c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\obj\Debug\Climqpi.Web.csprojResolveAssemblyReference.cache
 c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\obj\Debug\Climqpi.Web.dll
 c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\obj\Debug\Climqpi.Web.pdb
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\obj\Debug\Climqpi.Web.csprojResolveAssemblyReference.cache
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\obj\Debug\Climqpi.Web.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Climqpi.Web.dll.config
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Climqpi.Web.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Climqpi.Web.pdb
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Climapi.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Nancy.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Newtonsoft.Json.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Climapi.pdb
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Nancy.xml
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Newtonsoft.Json.xml
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\obj\Debug\Climqpi.Web.pdb
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Nancy.Hosting.Aspnet.dll
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Nancy.Hosting.Aspnet.xml
+C:\Users\Emma-Ashley\Documents\Climapi\climapi\Climapi\Climqpi.Web\bin\Nancy.Serialization.JsonNet.dll
