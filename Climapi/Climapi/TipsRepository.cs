@@ -35,9 +35,12 @@ namespace Climapi
 
         public List<Tip> GetTipsByTag(string tag)
         {
-            //write some code here to get all of the tips in the tip list that have a tag that is equal to "tag" and return that list
+            //write some code here to get all of the tips in the tip list that have a tag that is equal to 
+            //"tag" and return that list
 
-            throw new NotImplementedException();
+            var result = TipList.FindAll(tip => tip.Tag==tag);
+
+            return result;
         }
     }
 }
