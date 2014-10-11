@@ -7,6 +7,6 @@ namespace Climqpi.Web
 {
     public class TipsRequest
     {
-
+        public string Tag { get; set; }
     }
 }

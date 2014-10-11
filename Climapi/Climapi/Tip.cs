@@ -8,15 +8,15 @@ namespace Climapi
 {
     public class Tip
     {
-        public string How { get; set; }
-        public string Why { get; set; }
-        public string Tag { get; set; }
+        public string SingleTip { get; set; }
+        public string Fact { get; set; }
+        public List<string> Tags { get; set; }
 
-        public Tip(string how, string why, string tag)
+        public Tip(string tip, string fact, List<string> tags)
         {
-            How = how;
-            Why = why;
-            Tag = tag;
+            SingleTip = tip;
+            Fact = fact;
+            Tags = tags;
         }
     }
 }
