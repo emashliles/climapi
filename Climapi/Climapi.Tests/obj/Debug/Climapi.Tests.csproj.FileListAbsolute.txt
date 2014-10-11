@@ -1,0 +1,9 @@
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\obj\Debug\Climapi.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\bin\Debug\Climapi.Tests.dll
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\bin\Debug\Climapi.Tests.pdb
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\bin\Debug\Climapi.dll
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\bin\Debug\nunit.framework.dll
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\bin\Debug\Climapi.pdb
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\bin\Debug\nunit.framework.xml
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\obj\Debug\Climapi.Tests.dll
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climapi.Tests\obj\Debug\Climapi.Tests.pdb

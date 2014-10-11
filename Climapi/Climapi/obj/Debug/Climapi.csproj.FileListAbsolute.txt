@@ -1,0 +1,7 @@
+c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\bin\Debug\Climapi.dll
+c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\bin\Debug\Climapi.pdb
+c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\bin\Debug\Nancy.dll
+c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\bin\Debug\Nancy.xml
+c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\obj\Debug\Climapi.csprojResolveAssemblyReference.cache
+c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\obj\Debug\Climapi.dll
+c:\users\tolulope\documents\visual studio 2013\Projects\Climapi\Climapi\obj\Debug\Climapi.pdb

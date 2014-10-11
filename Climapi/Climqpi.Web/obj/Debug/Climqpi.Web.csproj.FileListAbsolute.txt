@@ -1,0 +1,6 @@
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\bin\Climqpi.Web.dll.config
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\bin\Climqpi.Web.dll
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\bin\Climqpi.Web.pdb
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\obj\Debug\Climqpi.Web.csprojResolveAssemblyReference.cache
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\obj\Debug\Climqpi.Web.dll
+c:\Users\Tolulope\documents\visual studio 2013\Projects\Climapi\Climqpi.Web\obj\Debug\Climqpi.Web.pdb

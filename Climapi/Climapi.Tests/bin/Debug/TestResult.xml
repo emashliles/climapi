@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Tolulope\Documents\Visual Studio 2013\Projects\Climapi\Climapi.Tests\bin\Debug\Climapi.Tests.dll" total="3" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-10-11" time="13:44:39">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="OGUNREMI-HP" user="Tolulope" user-domain="OGUNREMI-HP" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Tolulope\Documents\Visual Studio 2013\Projects\Climapi\Climapi.Tests\bin\Debug\Climapi.Tests.dll" executed="True" result="Failure" success="False" time="0.221" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Climapi" executed="True" result="Failure" success="False" time="0.197" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="0.196" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TipsTests" executed="True" result="Failure" success="False" time="0.193" asserts="0">
+                <results>
+                  <test-case name="Climapi.Tests.TipsTests.Can_Retrun_a_random_tip" executed="True" result="Success" success="True" time="0.070" asserts="1" />
+                  <test-case name="Climapi.Tests.TipsTests.Can_Return_a_top_tip" executed="True" result="Error" success="False" time="0.074" asserts="0">
+                    <failure>
+                      <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                      <stack-trace><![CDATA[at Climapi.TipsRepository.GetRandomTip() in c:\Users\Tolulope\Documents\Visual Studio 2013\Projects\Climapi\Climapi\TipsRepository.cs:line 17
+at Climapi.Tests.TipsTests.Can_Return_a_top_tip() in c:\Users\Tolulope\Documents\Visual Studio 2013\Projects\Climapi\Climapi.Tests\TipsTests.cs:line 35
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                  <test-case name="Climapi.Tests.TipsTests.Tips_Can_be_added_to_repository" executed="True" result="Success" success="True" time="0.012" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
