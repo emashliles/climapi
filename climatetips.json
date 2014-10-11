@@ -1,74 +1,62 @@
-[
+ï»¿[
 {
-"id":1,
+"id": 1,
 "tip": "Consider making a donation",
-"fact": "Average global temperatures increased by about 1 degree Celsius over the 20th century.
-",
-"tags:[]
+"fact": "Average global temperatures increased by about 1 degree Celsius over the 20th century.",
+"tags": []
 },
 {
-"id":2,
-"tip": "Contact your political representatives and the media to tell them you want immediate action on climate change.
-",
-"fact": "The United States contains only 5 percent of the world's population, but contributes 22 percent of the world's carbon emissions.
-",
-"tags:[]
+"id": 2,
+"tip": "Contact your political representatives and the media to tell them you want immediate action on climate change.",
+"fact": "The United States contains only 5 percent of the world's population, but contributes 22 percent of the world's carbon emissions.",
+"tags": []
 },
 {
-"id":3,
+"id": 3,
 "tip": "Vote for politicians who support effective climate policies.",
-"fact": "15 percent of carbon emissions come from deforestation and land use change.
-",
-"tags:[]
+"fact": "15 percent of carbon emissions come from deforestation and land use change.",
+"tags": []
 },
 {
-"id":4,
-"tip": "Host a presentation for your community or workplace by requesting a presenter trained by Al Gore from The Climate Project Canada.
-",
-"fact": "The Golden Toad (Bufo periglenes) is thought to be the first species to go extinct because of climate change.
-",
-"tags:[]
+"id": 4,
+"tip": "Host a presentation for your community or workplace by requesting a presenter trained by Al Gore from The Climate Project Canada.",
+"fact": "The Golden Toad (Bufo periglenes) is thought to be the first species to go extinct because of climate change.",
+"tags": []
 },
 {
-"id":5,
-"tip": "Consider greener options such as buses or trains, or try vacationing closer to home. You can also stay in touch with people by videoconferencing,
-",
-"fact": "Personal cars and trucks in the United States emit 20 percent of the United States' carbon emissions.
-",
-"tags:[]
-}
-"id":6,
+"id": 5,
+"tip": "Consider greener options such as buses or trains, or try vacationing closer to home. You can also stay in touch with people by videoconferencing,",
+"fact": "Personal cars and trucks in the United States emit 20 percent of the United States' carbon emissions.",
+"tags": ["leisure"]
+},
+{
+"id": 6,
 "tip": "Keep stuff out of landfills by composting kitchen scraps and garden trimmings, and recycling paper, plastic, metal and glass.",
-"fact": "Climate change is linked to stronger hurricanes, more drought and increased coral deaths from bleaching.
-",
-"tags:[]
+"fact": "Climate change is linked to stronger hurricanes, more drought and increased coral deaths from bleaching.",
+"tags": ["home"]
 },
 {
-"id":7,
-"tip": "Let store managers and manufacturers know you want products with minimal or recyclable packaging.
-",
+"id": 7,
+"tip": "Let store managers and manufacturers know you want products with minimal or recyclable packaging.",
 "fact": "Climate change is linked to an increase in disease-carrying pests that lead to the increased spread of diseases such as dengue fever, malaria, lyme disease and West Nile virus.",
-"tags:[]
+"tags": ["home", "work"]
 },
 {
-"id":8,
-"tip": "Eat low on the food chain — at least one meat-free meal a day — since 18 per cent of greenhouse gas emissions come from meat and dairy production.
-",
-"fact": "There is more carbon dioxide in the atmosphere today than at any point in the last 800,000 years.
-",
-"tags:[]
-},
-{
-"id":9,
-"tip": "Ask your utility to switch your account to clean, renewable power, such as from wind farms.
-",
+"id": 8,
+"tip": "Eat low on the food chain - at least one meat-free meal a day - since 18 per cent of greenhouse gas emissions come from meat and dairy production.",
 "fact": "There is more carbon dioxide in the atmosphere today than at any point in the last 800,000 years.",
-"tags:[]
+"tags": ["home"]
 },
 {
-"id":10,
+"id": 9,
+"tip": "Ask your utility to switch your account to clean, renewable power, such as from wind farms.",
+"fact": "There is more carbon dioxide in the atmosphere today than at any point in the last 800,000 years.",
+"tags": []
+},
+{
+"id": 10,
 "tip": "Switch off lights",
 "fact": "Since 1870, global sea levels have risen by about 8 inches.",
-"tags:[]
+"tags": ["home"]
 }
 ]
