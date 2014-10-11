@@ -9,5 +9,6 @@ namespace Climqpi.Web
     public class TipsResponse
     {
         public Tip TipResponse { get; set; }
+        public List<Tip> Tips { get; set; }
     }
 }
