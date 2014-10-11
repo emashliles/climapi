@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Climapi;
 
 namespace Climqpi.Web
 {
     public class TipsResponse
     {
-        public string Tip { get; set; }
+        public Tip TipResponse { get; set; }
     }
 }

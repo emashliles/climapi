@@ -26,15 +26,11 @@ namespace Climqpi.Web
 
             
             
-                tipsRepo.TipList = new List<string>();
-                tipsRepo.TipList.Add("Don't drive an SUV");
-                tipsRepo.TipList.Add("Help Pandas");
-                tipsRepo.TipList.Add("Walk don't drive");
             
 
             return new TipsResponse()
             {
-                Tip = tipsRepo.GetRandomTip()
+                TipResponse = tipsRepo.GetRandomTip()
             };
         }
     }
