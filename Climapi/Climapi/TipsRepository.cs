@@ -8,9 +8,19 @@ namespace Climapi
 {
     public class TipsRepository
     {
-        public List<string> TipList;
+      //  public List<string> TipList;
 
-        public string GetRandomTip()
+        public TipsRepository()
+        {
+            TipList = new List<Tip>();
+
+            TipList.Add(new Tip("Y","Y"));
+            TipList.Add(new Tip("X","X"));
+            TipList.Add(new Tip("foo","bar"));
+        }
+        public List<Tip> TipList;
+
+        public Tip GetRandomTip()
         {
             var RandomTip = new Random();
 
@@ -18,7 +28,7 @@ namespace Climapi
         }
 
 
-        public void AddTips(List<string> tipList)
+        public void AddTips(List<Tip> tipList)
         {
             TipList = tipList;
         }
