@@ -6,20 +6,21 @@
 <body>
 <div>
 <h3>Climate Api Tip of the Day</h3>
-<p id="climapi_data"></p>
+<div id="climapi_data">Text</div>
 </div>
 <script>
 var my_JSON_object;
 var url = "localhost:80";
-//var apiwidget = document.getElementById("climapi_data");
+var apiwidget = document.getElementById("climapi_data");
+apiwidget.innerHTML = "Some Text";
+
 var http_request = new XMLHttpRequest();
 http_request.open("GET", url, true);
 http_request.onreadystatechange = function () {
     var done = 4, ok = 200;
-    if (http_request.readyState === done && http_request.status === ok) {
-        my_JSON_object = JSON.parse(http_request.responseText);
-        //apiwidget.innerHTML = my_JSON_object;
-        document.getElementById("climapi_data").innerHTML = "Some Text";
+    if (http_request.readyState === done && http_request.status === ok) {        
+        my_JSON_object = JSON.parse(http_request.responseText);       
+        apiwidget.innerHTML = my_JSON_object;
     }
 };
 http_request.send(null);
